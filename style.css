@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    position: relative;
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: burlywood;
+    text-align: center;
+}
+
+span{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+input{
+    font-size: 30px;
+}
+
+#rez{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#kredit{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
